@@ -1,0 +1,27 @@
+[
+
+  {
+    "Amp Model": "QSC GX3",
+    "8 ohm Watts (W)": 300,
+    "4 ohm Watts (W)": 425,
+    "Amp Channels": 2
+  },
+  {
+    "Amp Model": "QSC GX5",
+    "8 ohm Watts (W)": 500,
+    "4 ohm Watts (W)": 700,
+    "Amp Channels": 2
+  },
+  {
+    "Amp Model": "t.amp E-400",
+    "8 ohm Watts (W)": 120,
+    "4 ohm Watts (W)": 190,
+    "Amp Channels": 2
+  },
+  {
+    "Amp Model": "t.amp E-800",
+    "8 ohm Watts (W)": 350,
+    "4 ohm Watts (W)": 500,
+    "Amp Channels": 2
+  }
+]
